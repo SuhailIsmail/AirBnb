@@ -30,6 +30,5 @@ This project focuses on analyzing Airbnb data, an online marketplace that connec
 5. Availability Analysis by Season: Analyze the availability of Airbnb listings based on seasonal variations. Visualize the occupancy rates, booking patterns, and demand fluctuations throughout the year using line charts, heatmaps, or other suitable visualizations.
 6. Location-Based Insights: Investigate how the price of listings varies across different locations. Use MongoDB queries and data aggregation techniques to extract relevant information for specific regions or neighborhoods. Visualize these insights on interactive maps or create dashboards in tools like Tableau or Power BI.
 7. Interactive Visualizations: Develop dynamic and interactive visualizations that allow users to filter and drill down into the data based on their preferences. Enable users to interact with the visualizations to explore specific regions, property types, or time periods of interest.
-## Project Structure
 
 
